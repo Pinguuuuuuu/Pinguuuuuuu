@@ -1,17 +1,5 @@
 ## Hi there 👋
 
-<!--  Cabeçalho -->
-
-*italico* ou _italico_
-
-**Negrito** ou __Negrito__
-
-___Negrito e italico___
-
-- Lista 1
-- Lista 2
-    - Sublista
-
 <!--
 **Pinguuuuuuu/Pinguuuuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
